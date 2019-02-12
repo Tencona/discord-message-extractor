@@ -1,3 +1,5 @@
+//Make a UI that extracts all messages and let's the user use the arrow keys to move up and down through history, and use left to mark a message to keep, and right for delete
+
 var badElements = [];
 var messageList = []; //Can I write to a file using Discord's libraries..? This is going to be gigantic.
 
